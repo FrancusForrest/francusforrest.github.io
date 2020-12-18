@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: francusforrest.github.io
+Token: 583f4cb881611afb98c6f4e699302e60adebdc87147d8bf0841b6ebb273584db
